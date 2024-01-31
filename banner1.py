@@ -6,7 +6,7 @@ import time
 import sys
 
 os.system('apt update')
-os.system('xdg-open https://github.com/U7P4L-IN')
+os.system('xdg-open https://github.com/Mr-alvi0')
 os.system('apt upgrade -y')
 os.system('pkg install figlet -y')
 os.system('xdg-open https://t.me/Team_Cicada3301')
